@@ -1,0 +1,10 @@
+C:\Users\PICHAU\source\repos\TP05\TP05\bin\Debug\TP05.exe.config
+C:\Users\PICHAU\source\repos\TP05\TP05\bin\Debug\TP05.exe
+C:\Users\PICHAU\source\repos\TP05\TP05\bin\Debug\TP05.pdb
+C:\Users\PICHAU\source\repos\TP05\TP05\obj\Debug\TP05.csproj.AssemblyReference.cache
+C:\Users\PICHAU\source\repos\TP05\TP05\obj\Debug\TP05.Form1.resources
+C:\Users\PICHAU\source\repos\TP05\TP05\obj\Debug\TP05.Properties.Resources.resources
+C:\Users\PICHAU\source\repos\TP05\TP05\obj\Debug\TP05.csproj.GenerateResource.cache
+C:\Users\PICHAU\source\repos\TP05\TP05\obj\Debug\TP05.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\source\repos\TP05\TP05\obj\Debug\TP05.exe
+C:\Users\PICHAU\source\repos\TP05\TP05\obj\Debug\TP05.pdb
